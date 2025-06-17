@@ -39,6 +39,7 @@ This project is an experimental **AI-powered Kahoot bot** that uses a language m
 Once everything is set up:
 python kahootAI.py
 You will be prompted to enter:
+
 ✅ Your OpenRouter API key
 
 ✅ The Kahoot game PIN
